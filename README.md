@@ -19,10 +19,4 @@
 </item>
 
 
-<item>
-<title>[B][COLOR white] Filmes Por Categorias [/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail>https://image.freepik.com/vetores-gratis/arte-cinema-vetor_23-2147494040.jpg</thumbnail>
-<fanart>https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/igorlista/main/README.md</externallink>
-</item>
+
